@@ -1,0 +1,11 @@
+import turtle as t
+t.reset()
+t.shape("turtle")
+t.pensize(10)
+t.color("green")
+t.circle(100)
+t.penup()
+t.goto(100, 0)
+t.color("orange")
+t.pendown()
+t.circle(100)
